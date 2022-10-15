@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrispro-21
 - 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning python, java, c, lua
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Open Source Projects that involve server hosting, central management for networking (Cisco, openwrt, etc)
 - 📫 How to reach me ...
 
 <!---
